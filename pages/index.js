@@ -23,10 +23,7 @@ export default function Home({allPostsData}) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>Hello, I'm Jerwin, I'm a web developer.</p>
-        <p>
-          (This is a sample website - you’ll be building a site like this on{' '}
-          <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
-        </p>
+        <p>Testing the DPS of Vercel</p>
       </section>
 
       {/* Add this <section> tag below the existing <section> tag */}
